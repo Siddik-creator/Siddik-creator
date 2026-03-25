@@ -8,46 +8,19 @@
 
 # 👨‍💻 AGENT PROFILE
 
-```javascript
-const developer = {
-  name: "Abubakkarsiddik Matwal",
-  role: "Frontend Developer | Web Developer | IoT Builder",
-  location: "Maharashtra, India",
+## 👨‍💻 About Me
 
-  code: ["JavaScript", "TypeScript", "Python", "PHP"],
+Hi, I'm **Abubakkarsiddik Matwal** — a **Frontend & Web Developer** from **Maharashtra, India**.
 
-  frontend: [
-    "HTML",
-    "CSS",
-    "React",
-    "Next.js",
-    "TailwindCSS"
-  ],
+* 💻 Passionate about building **modern, responsive web interfaces**
+* ⚛️ Experienced with **React, Next.js, JavaScript, and TailwindCSS**
+* 🔌 Building **IoT automation systems using Raspberry Pi and Python**
+* 🎯 Focused on creating **fast, accessible, and user-friendly applications**
+* 🚀 Always learning and exploring new technologies
 
-  backend: [
-    "Node.js",
-    "PHP",
-    "MySQL"
-  ],
+**Current Focus:**
+Building modern web applications and smart IoT solutions.
 
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Figma",
-    "Vercel"
-  ],
-
-  interests: [
-    "Web Development",
-    "IoT Systems",
-    "UI Engineering",
-    "Automation"
-  ],
-
-  currentFocus: "Building modern web apps & smart IoT systems"
-};
-```
 
 ---
 
