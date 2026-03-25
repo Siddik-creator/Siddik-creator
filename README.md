@@ -128,10 +128,10 @@ const AGENT = {
 ◈  TRANSMISSION CHANNELS AVAILABLE  ◈
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-020024?style=for-the-badge&logo=About.me&logoColor=00d4ff)](https://YOUR_PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://[linkedin.com/in/abubakkarsiddik-matwal-40511931b/](https://www.linkedin.com/in/abubakkarsiddik-matwal-40511931b/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-020024?style=for-the-badge&logo=About.me&logoColor=00d4ff)]([https://3d-portfolio-wao5.vercel.app/](https://3d-portfolio-wao5.vercel.app/)
 [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asiddikmatwal430@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
 
 <br/>
