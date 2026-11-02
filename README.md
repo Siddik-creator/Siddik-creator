@@ -188,10 +188,13 @@ A modern, interactive portfolio showcasing my development journey, technical ski
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddik-creator&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddik-creator&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Most Used Languages"
+  width="450"
+/>
 
 </div>
-
 ---
 
 # 🐍 CONTRIBUTION SNAKE
