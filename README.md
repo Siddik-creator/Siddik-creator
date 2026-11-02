@@ -36,7 +36,7 @@ I'm passionate about developing intelligent software solutions that combine Full
 
 | Qualification | Institution | Duration |
 |---|---|---|
-| B.Tech – Computer Science & Engineering | 2025–2028 | 4 Years |
+| B.Tech – Computer Science & Engineering | 2025–2028 | 3 Years |
 | Diploma – Computer Engineering | 2022–2025 | 3 Years |
 
 ---
