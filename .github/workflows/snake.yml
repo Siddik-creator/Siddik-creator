@@ -1,5 +1,5 @@
 
-name: Generate Contribution Snake
+name: Generate Emerald Matrix Snake
 
 on:
   workflow_dispatch:
@@ -15,16 +15,18 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate Emerald Matrix Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Siddik-creator
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&backgroundColor=0d1117
+            dist/snake.svg?palette=github-dark&backgroundColor=07130f&color_snake=22c55e
+            dist/snake-dark.svg?palette=github-dark&backgroundColor=07130f&color_snake=22c55e
 
-      - name: Publish generated SVG
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
