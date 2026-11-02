@@ -198,10 +198,13 @@ A modern, interactive portfolio showcasing my development journey, technical ski
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Siddik-creator/Siddik-creator/output/snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddik-creator/Siddik-creator/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddik-creator/Siddik-creator/output/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Siddik-creator/Siddik-creator/output/snake.svg" />
+</picture>
 
 </div>
-
 ---
 
 # 🌍 CONNECT WITH ME
