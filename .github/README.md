@@ -198,17 +198,29 @@ A modern, interactive portfolio showcasing my development journey, technical ski
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+
+<!-- CONTRIBUTION SNAKE -->
+
+<h2 align="center">🐍 CONTRIBUTION MATRIX</h2>
+
+<p align="center">
+  <i>Every contribution is a step forward.</i>
+</p>
 
 <div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Siddik-creator/Siddik-creator/output/snake-dark.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
-/>
-
+  <img
+    src="https://raw.githubusercontent.com/Siddik-creator/Siddik-creator/output/snake.svg"
+    alt="Emerald Matrix GitHub Contribution Snake"
+    width="100%"
+  />
 </div>
+
+<p align="center">
+  <sub>POWERED BY CONSISTENCY • BUILT WITH CODE</sub>
+</p>
+
+<!-- END CONTRIBUTION SNAKE -->
+
 ---
 
 # 🌍 CONNECT WITH ME
