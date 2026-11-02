@@ -199,6 +199,7 @@ A modern, interactive portfolio showcasing my development journey, technical ski
 ---
 
 
+
 <!-- CONTRIBUTION SNAKE -->
 
 <h2 align="center">🐍 CONTRIBUTION MATRIX</h2>
@@ -220,6 +221,7 @@ A modern, interactive portfolio showcasing my development journey, technical ski
 </p>
 
 <!-- END CONTRIBUTION SNAKE -->
+
 
 ---
 
