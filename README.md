@@ -1,9 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020024,50:090979,100:00d4ff&height=220&section=header&text=ABUBAKKAR%20SIDDIK&fontSize=60&fontColor=00d4ff&animation=blinking&fontAlignY=55&desc=Frontend%20Developer%20•%20Web%20Engineer%20•%20IoT%20Builder&descAlignY=75&descSize=16"/>
-
-</div>
- 
  <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:020024,50:090979,100:00d4ff&height=220&section=header&text=ABUBAKKARSIDDIK&fontSize=48&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20%7C%20AI%2FML%20%7C%20IoT&descAlignY=65&descSize=15"/>
